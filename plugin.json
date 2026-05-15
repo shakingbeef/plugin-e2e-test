@@ -1,0 +1,13 @@
+{
+  "name": "rain-partner-integration",
+  "description": "A playful rain haiku agent for GitHub",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rain Inc.",
+    "email": "hello@rain.example.com"
+  },
+  "license": "MIT",
+  "agents": "agents/",
+  "skills": "skills/",
+  "hooks": "hooks.json"
+}
